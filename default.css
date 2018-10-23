@@ -1,5 +1,7 @@
 body{
-    /*background-color:coral;*/
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
 h1 {
@@ -13,4 +15,10 @@ div {
     background-color: #DDDDDD;
     margin: 1cm;
     padding: 1cm;
+}
+
+canvas {
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
