@@ -1,0 +1,16 @@
+body{
+    /*background-color:coral;*/
+}
+
+h1 {
+    text-align: center;
+    margin: 1cm;
+    color: coral;
+    font-size: 2cm;
+}
+
+div {
+    background-color: #DDDDDD;
+    margin: 1cm;
+    padding: 1cm;
+}
